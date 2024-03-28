@@ -1,0 +1,28 @@
+body {
+  background: #87CEFA
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Verdana', sans-serif;	
+  line-height: 1,6;
+}
+
+.container {
+  margin: 0 auto;
+  width: 960px;
+}
+
+.places h2{
+  color: #B0C4DE;
+  border-color: #87CEFA;
+}
+
+.sidenote {
+	align-items: center;
+  background-color: #FFFAFA ;
+  border: 1px solid ;
+  float: right;
+  padding: 10px;
+  width: 260px;
+
+}
+
+
+
